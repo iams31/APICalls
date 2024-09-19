@@ -1,6 +1,7 @@
 # SwiftUI Product Showcase App
 
-<img src=screenshots/product_details.png>
+<img src=screenshots/product_detail.png>
+<img src=screenshots/product_list.png>
 
 ## Overview
 
