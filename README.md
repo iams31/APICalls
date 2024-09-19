@@ -1,6 +1,6 @@
 # SwiftUI Product Showcase App
 
-![APP UI](productapp.png)
+<img src=screenshots/product_details.png>
 
 ## Overview
 
